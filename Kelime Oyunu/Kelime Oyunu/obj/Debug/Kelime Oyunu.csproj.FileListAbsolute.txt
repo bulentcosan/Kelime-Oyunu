@@ -1,0 +1,15 @@
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csprojResolveAssemblyReference.cache
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.GenerateResource.Cache
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.CoreCompileInputs.cache
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe.config
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.pdb
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.exe
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.pdb
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\CircularProgressBar.dll
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\WinFormAnimation.dll
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\CircularProgressBar.xml
+Q:\Kelime Oyunu\Kelime Oyunu\bin\Debug\WinFormAnimation.xml
+Q:\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.positive_feedback.resources
